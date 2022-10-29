@@ -4,5 +4,6 @@ System.out.println("My Favorite Artists");
 System.out.println("Jin ");
 System.out.println("Cha eun woo");
 System.out.println("jang uk");
+System.out.println("lee jung suk");
     }
     }
