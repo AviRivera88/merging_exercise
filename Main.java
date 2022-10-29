@@ -1,8 +1,8 @@
 public class Main{
     public static void main(String[] args){
-System.out.println("Only Hope");
-System.out.println("Life goes on");
-System.out.println("DNA");
-System.out.println("Wakas");
+System.out.println("My Favorite Artists");
+System.out.println("Jin ");
+System.out.println("Cha eun woo");
+System.out.println("jang uk");
     }
     }
